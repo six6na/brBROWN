@@ -9,6 +9,7 @@ main {
 main section {
     width: 1440px;
     margin: 0 auto;
+    color: #573D3E;
 }
 
 .imgBanner {
@@ -53,8 +54,10 @@ hr {
 .brandImg01 {
     width: 1440px;
     height: 530px;
-    background: 
-    #d3d3d3;
+    background: url(../images/brandImg01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .story02 {
@@ -82,7 +85,10 @@ hr {
 .brandImg03 {
     width: 895px;
     height: 530px;
-    background: #d3d3d3;
+    background: url(../images/brandImg02.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .textarea03 {
@@ -97,6 +103,7 @@ hr {
     justify-content: center;
     background: #573D3E;
     text-align: center;
+    color: #F8E6D8;
 }
 
 .textarea03 p {
@@ -111,7 +118,10 @@ hr {
 .brandImg04 {
     width: 800px;
     height: 450px;
-    background: #d3d3d3;
+    background: url(../images/brandImg03.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .textarea04 {
@@ -139,7 +149,10 @@ hr {
 .brandImg05 {
     width: 1440px;
     height: 530px;
-    background: #d3d3d3;
+    background: url(../images/brandImg04.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .textarea05 {
@@ -153,6 +166,7 @@ hr {
     align-items: center;
     justify-content: center;
     background: #573D3E;
+    color: #F8E6D8;
 }
 
 .textarea05 p {

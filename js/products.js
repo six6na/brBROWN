@@ -1,6 +1,6 @@
 function getData() {
     // 여기에 여러분 깃허브 JSON 파일 경로(서버 데이터 주소)
-    const DataURL = 'https://raw.githubusercontent.com/six6na/vivienneWestwood/main/data.json';
+    const DataURL = 'https://raw.githubusercontent.com/six6na/brBROWN/main/data.json';
     fetch(DataURL)
         .then(function (res) {
             return res.json(); // JSON 객체 변환
@@ -47,16 +47,22 @@ function showProducts(obj) {
 
         //카테고리 별로 보기
         if (params == product.category) {
-            $('main .products').append(html);
+            $('main #products').append(html);
         }
 
         // 상품 전체보기
         if (params == null) {
-            $('main .products').append(html);
+            $('main #products').append(html);
             console.log(`i = `, i)
         }
 
     });
+
+    $(document).ready(function(){
+        $(".menuBtn a").click(function(){
+            $(this).addClass("on").siblings().removeClass("on");
+        })
+    })
 
 }
 
