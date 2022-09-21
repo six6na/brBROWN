@@ -1,0 +1,120 @@
+.mainWrap {
+    background: #fff;
+}
+
+.imgBanner {
+    width: 100%;
+    height: 150px;
+    background: linear-gradient(180deg, #573D3E 0%, #92D4CA 100%);
+    color: #F8E6D8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menuBtn a {
+    display: block;
+    line-height: 30px;
+    width: 110px;
+    border: 1px solid #573D3E;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 30px;
+    margin-right: 35px;
+    color: #573D3E;
+}
+
+.menuBtn a.on {
+    color: #F8E6D8;
+    background: #573D3E;
+}
+
+.menuBtn a:last-child {
+    margin-right: 0;
+}
+
+.menuBtn {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.searchBox {
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-bottom: 50px;
+}
+
+.searchBox form{
+    outline: 1px solid #573D3E;
+    display: flex;
+    background: #fff;
+}
+
+.search {
+    padding: 8px 5px;
+    border: none;
+    outline: none;
+}
+
+.submitBtn {
+    padding: 5px;
+    background: none;
+    border: none;
+}
+
+#products {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 1 1 30%;
+}
+
+.product {
+    /* outline: 1px solid red; */
+    width: 500px;
+    height: 580px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.bgImg {
+    /* outline: 1px solid red; */
+    width: 300px;
+    height: 300px;
+    background: #573D3E;
+    border-radius: 50%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    overflow: hidden;
+    position: absolute;
+    bottom: 120px;
+}
+
+.bgImg img {
+    transform: rotate(11.45deg);
+}
+
+.productImg {
+    /* outline: 1px solid blue; */
+    position: absolute;
+    z-index: 1;
+    top: 0;
+}
+
+.name {
+    position: absolute;
+    bottom: 60px;
+    font-size: 18px;
+    color: #573D3E;
+}

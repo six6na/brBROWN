@@ -1,0 +1,160 @@
+main {
+    width: 100%;
+}
+
+.mainWrap {
+    background: #fff;
+}
+
+main section {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.imgBanner {
+    height: 150px;
+    width: 100%;
+    background: linear-gradient(180deg, #573D3E 0%, #92D4CA 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F8E6D8;
+}
+
+.story01 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 60px;
+}
+
+.textarea01 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 580px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 60px;
+    height: 2px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: #DA3DB1;
+    border: 0;
+}
+
+.brandImg01 {
+    width: 1440px;
+    height: 530px;
+    background: 
+    #d3d3d3;
+}
+
+.story02 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.textarea02 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 1000px;
+}
+
+.story03 {
+    display: flex;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.brandImg03 {
+    width: 895px;
+    height: 530px;
+    background: #d3d3d3;
+}
+
+.textarea03 {
+    position: absolute;
+    top: 85px;
+    right: 0;
+    width: 890px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #573D3E;
+    text-align: center;
+}
+
+.textarea03 p {
+    width: 580px;
+}
+
+.story04 {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.brandImg04 {
+    width: 800px;
+    height: 450px;
+    background: #d3d3d3;
+}
+
+.textarea04 {
+    width: 638px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.textarea04 p {
+    width: 400px;
+}
+
+.story05 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-bottom: 470px;
+}
+
+.brandImg05 {
+    width: 1440px;
+    height: 530px;
+    background: #d3d3d3;
+}
+
+.textarea05 {
+    position: absolute;
+    top: 425px;
+    width: 890px;
+    height: 360px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #573D3E;
+}
+
+.textarea05 p {
+    width: 580px;
+}
