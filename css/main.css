@@ -25,10 +25,17 @@
     background-size: cover;
 }
 
+.main01 .textWrap {
+    color: #F8E6D8;
+}
+
 .textWrap {
     width: 30%;
     text-align: center;
-    /* padding-right: 40px; */
+}
+
+.textWrap h4 {
+    margin-bottom: 10px;
 }
 
 .main02 {
@@ -61,11 +68,10 @@
 }
 
 .menuWrap {
-    width: 95%;
+    width: 90%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    outline: 1px solid red;
 }
 
 .menuWrap a {
