@@ -1,62 +1,62 @@
 [
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
+        "name": "엄마는 외계인",
         "image": "../images/icecream1.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "아몬드 봉봉",
+        "image": "../images/icecream2.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "알폰소 망고",
+        "image": "../images/icecream3.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "민트 초콜릿 칩",
+        "image": "../images/icecream4.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "뉴욕치즈케이크",
+        "image": "../images/icecream5.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "사랑에 빠진 딸기",
+        "image": "../images/icecream6.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "도리도리 팽도리",
+        "image": "../images/icecream7.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "비타 500 소르베",
+        "image": "../images/icecream8.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "찰떡콩떡",
+        "image": "../images/icecream9.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "월넛",
+        "image": "../images/icecream10.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "피스타치오",
+        "image": "../images/icecream11.png"
     },
     {
         "category": "icecream",
-        "name": "내가 아인슈페너?!",
-        "image": "../images/icecream1.png"
+        "name": "해피버스데이",
+        "image": "../images/icecream12.png"
     }
 ]
